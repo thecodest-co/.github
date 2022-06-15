@@ -5,14 +5,12 @@
 ## Tech Stack
 ![tenor](https://user-images.githubusercontent.com/1628839/173796772-6d77dbe0-f4d9-4ddd-a86a-62496c7a9047.gif)
 
----
-
-![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/vue.svg)
-![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/ruby.svg)
-![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/python.svg)
-![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/react.svg)
-![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/java.svg)
-![https://thecodest.co/php-development](https://thecodest.co/images/uploaded/tech-stack/php.svg)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## Related documents
 
