@@ -1,14 +1,29 @@
-# TheCodest GitHub Open Source Projects
+# The Codest Open Source
+
+![image](https://user-images.githubusercontent.com/1628839/173795727-e8479458-7d81-4f60-8f65-b2ef1c6f5a7f.png)
+
+## Tech Stack
+![tenor](https://user-images.githubusercontent.com/1628839/173796772-6d77dbe0-f4d9-4ddd-a86a-62496c7a9047.gif)
+
+---
+
+![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/vue.svg)
+![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/ruby.svg)
+![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/python.svg)
+![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/react.svg)
+![https://thecodest.co/](https://thecodest.co/images/uploaded/tech-stack/java.svg)
+![https://thecodest.co/php-development](https://thecodest.co/images/uploaded/tech-stack/php.svg)
 
 ## Related documents
 
 * [Who are we](https://thecodest.co/)
 * [What we do](https://thecodest.co/services)
 * [Who we are looking for](https://thecodest.co/careers)
+* [What we're saying](https://thecodest.co/blog)
 
 ## Overview
 
-Here you can find all public code done by [TheCodest](https://thecodest.co/) team.
+Here you can find all public code done by [The Codest](https://thecodest.co/) team.
 
 ## License Standard Notice
 The repository utilizes code licensed under the terms of the Apache Software
