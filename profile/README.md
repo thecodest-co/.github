@@ -14,10 +14,10 @@
 
 ## Related documents
 
-* [Who are we](https://thecodest.co/)
-* [What we do](https://thecodest.co/services)
-* [Who we are looking for](https://thecodest.co/careers)
-* [What we're saying](https://thecodest.co/blog)
+* 👯 [Who are we](https://thecodest.co/)
+* ⚙️ [What we do](https://thecodest.co/services)
+* 📈 [Who we are looking for](https://thecodest.co/careers)
+* ✍🏼 [What we're saying](https://thecodest.co/blog)
 
 ## Overview
 
